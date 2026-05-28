@@ -6,15 +6,7 @@ settings.local.json
 .DS_Store
 Thumbs.db
 
-# Python
-__pycache__/
-*.pyc
-
-# Node
-node_modules/
-dist/
-
-# Dev / temp
+# Temp / assets
 assets/
 *.html
 
